@@ -1,4 +1,4 @@
-# 3D-object-retrieval
+# 3D-object-retrieval-OS-MN40
 
 # Setup
 ## Install Related Packages
